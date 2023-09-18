@@ -1,0 +1,16 @@
+body {
+	height: 100vh;
+	margin: 0;
+	background: #1e1e1e;
+	font-family: 'Segoe UI', sans-serif;
+	color: white;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+
+#timer {
+	font-size: 10em;
+	font-weight: bold;
+}
